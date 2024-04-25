@@ -1,0 +1,49 @@
+body{
+
+    background-color: rgb(237, 237, 238);
+}
+
+div,p{
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+    border-bottom: 1px solid rgb(171, 171, 171);
+    padding-bottom: 30px;
+    font-family:  Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+img{
+    width: 200px;
+    border: solid 4px rgb(186, 186, 186);
+}
+
+a{
+
+    background-color: #49B970;
+    padding: 15px;
+    text-decoration:none;
+    border-radius: 19px;
+    color: white;
+   
+
+}
+
+p{
+    border: none; 
+    padding-top: 20px;
+    text-align: justify;
+   
+}
+
+#div{
+     border: none;
+}
+
+
+
+span{
+    font-weight: bold;
+}
+
+
